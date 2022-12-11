@@ -9,18 +9,23 @@ OBJETIVOS MEDIBLES DEL PROYECTO:
 •	Establecer con ayuda de reportes de ventas los patrones de ventas y determinar que productos son los mas vendido y los días de mayor venta.
 
 Requerimientos:
-Servidores de aplicación, web, bases de datos, etc.
+Servidor de apliaciones Tomcat 8.0
+Base de datos Mysql 5.6 o superior
 
 Paquetes adicionales.
-Versión de Java, etc.
+Java Development Kit (JDK) Version 8.0 o superior
+
 
 Instalación:
 ¿Cómo instalar el ambiente de desarrollo?
+
 ¿Cómo ejecutar pruebas manualmente?
+
 ¿Cómo implementar la solución en producción en un ambiente local o en la nube como Heroku?
 
 Configuración:
 Configuración del producto (archivos de configuración).
+
 Configuración de los requerimientos.
 
 Uso:
