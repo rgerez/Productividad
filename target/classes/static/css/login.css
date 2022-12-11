@@ -1,0 +1,27 @@
+body {
+    font-family: "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+@media (min-width:769px) and (max-width: 1000px) {
+    #desktop-bg {
+        display: none;
+    }
+    .bg-white {
+        background-color: transparent!important;
+    }
+    @media (orientation:portrait) {
+        .login-container {
+            padding-top: 100px;
+        }
+    }
+}
+
+@media (min-width: 1001px) {
+    #tablet-bg {
+        display: none;
+    }
+}
+
+.btn-danger{
+    border-radius: 20px;
+}

@@ -101,5 +101,7 @@ public class AppController {
            new SecurityContextLogoutHandler().logout(request, response, auth);  
         }  
          return "redirect:/";  
-     }  
+     } 
+
+	 
 }

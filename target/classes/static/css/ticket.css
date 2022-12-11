@@ -1,0 +1,85 @@
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&family=Roboto+Condensed:wght@400;700&family=Roboto:wght@400;700;900&display=swap');
+
+
+        body {
+            font-family: "Calibri", "Arial";
+            font-size: 13px;
+            line-height: 16px;
+        }
+
+        .clear-both {
+            clear: both;
+        }
+
+        .text-left {
+            text-align: left;
+        }
+
+        .text-center {
+            text-align: center;
+        }
+
+        .text-bold {
+            font-weight: bold;
+        }
+
+       
+
+        .main-header .timestamp {
+            /*    float:right;
+    display:inline-block;*/
+            text-align: right;
+            margin-top: -20px;
+            margin-bottom: 12px;
+        }
+
+       
+
+        .detail-table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .detail-table th,
+        .detail-table td {
+
+            /* border: 1px solid black; */
+            vertical-align: middle;
+            padding: 5px;
+        }
+
+        .detail-table th {
+            font-size: 14px;
+            line-height: 16px;
+            font-weight: normal;
+        }
+
+        .detail-table tr.bg-color {
+
+            background-color: #D9D9D9;
+        }
+
+        .detail-table tr.bg-color th {
+
+            font-size: 12px;
+            line-height: 14px;
+        }
+
+
+        .detail-table td {
+            font-size: 13px;
+            line-height: 14px;
+            /* font-weight: bold; */
+        }
+
+        .detail-table .alert-0 {
+            background-color: green;
+        }
+
+        .detail-table .alert-1 {
+            background-color: red;
+        }
+
+       
